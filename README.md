@@ -61,7 +61,7 @@ Please follow the instruction below to install it and run the experiment demo.
 ## Citation
 If you use the code in your research, please cite:
 ```bibtex
-   @inproceedings{peng2024energybased,
+@inproceedings{peng2024energybased,
         title={Energy-based Automated Model Evaluation},
         author={Ru Peng, Heming Zou, Haobo Wang, Yawen Zeng, Zenan Huang, Junbo Zhao},
         booktitle={The Twelfth International Conference on Learning Representations},
