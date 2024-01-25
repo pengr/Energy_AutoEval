@@ -61,12 +61,11 @@ Please follow the instruction below to install it and run the experiment demo.
 ## Citation
 If you use the code in your research, please cite:
 ```bibtex
-@inproceedings{peng2024energybased,
-        title={Energy-based Automated Model Evaluation},
-        author={Ru Peng, Heming Zou, Haobo Wang, Yawen Zeng, Zenan Huang, Junbo Zhao},
-        booktitle={The Twelfth International Conference on Learning Representations},
-        year={2024},
-        url={https://openreview.net/forum?id=CHGcP6lVWd}
+@article{peng2024energy,
+    title={Energy-based Automated Model Evaluation},
+    author={Peng, Ru and Zou, Heming and Wang, Haobo and Zeng, Yawen and Huang, Zenan and Zhao, Junbo},
+    journal={arXiv preprint arXiv:2401.12689},
+    year={2024}
 }
 ```
 
