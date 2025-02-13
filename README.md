@@ -7,7 +7,7 @@ This repository contains:
 
 - the PyTorch implementation of Energy_AutoEval
 - the example on CIFAR-10 setup
-- CIFAR-10, CIFAR-100, TinyImageNet-200, ImageNet-200, ImageNet download setups.
+- CIFAR-10, CIFAR-100, TinyImageNet-200, ImageNet download setups.
   Please see ```PROJECT_DIR/data_setup/``` or you can download it manually form the offical websites in Prerequisites ↓
 
 Please follow the instruction below to install it and run the experiment demo.
@@ -21,12 +21,9 @@ Please follow the instruction below to install it and run the experiment demo.
 * [CIFAR-10-C Dataset](https://zenodo.org/record/2535967#.Y-3ggHZBx3g) (download and unzip to ```PROJECT_DIR/datasets/CIFAR-10-C```)
 * [CIFAR-100 Dataset](https://www.cs.toronto.edu/~kriz/cifar.html) (download and unzip to ```PROJECT_DIR/datasets/CIFAR100```)
 * [CIFAR-100-C Dataset](https://zenodo.org/record/3555552#.Y-3gwHZBx3g) (download and unzip to ```PROJECT_DIR/datasets/CIFAR-100-C```)
-* [PASCAL Dataset](http://host.robots.ox.ac.uk/pascal/VOC/) (download and unzip to ```PROJECT_DIR/datasets/PASCAL```)
-* [Caltech256 Dataset](https://data.caltech.edu/records/nyy15-4j048) (download and unzip to ```PROJECT_DIR/datasets/Caltech256```)
 * [ImageNet Dataset](https://image-net.org/challenges/LSVRC/2013/2013-downloads.php) (download and unzip to ```PROJECT_DIR/datasets/ImageNet```)
 * [TinyImageNet Dataset](http://cs231n.stanford.edu/tiny-imagenet-200.zip) (download and unzip to ```PROJECT_DIR/datasets/tiny-imagenet-200```)
 * [TinyImageNet-C Dataset](https://zenodo.org/record/2469796#.Y-3gynZBx3g) (download and unzip to ```PROJECT_DIR/datasets/Tiny-ImageNet-C```)
-* SHVN,USPS,FashionMNIST,KMNIST,STL10 are the ready-made datasets in torchvision.datasets package 
 * All -C Operation can refers to [Benchmarking Neural Network Robustness to Common Corruptions and Perturbations](https://github.com/hendrycks/robustness)
 * You might need to change the file paths, and please be sure you change the corresponding paths in the codes as well  
 
