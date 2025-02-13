@@ -7,7 +7,7 @@ This repository contains:
 
 - the PyTorch implementation of Energy_AutoEval
 - the example on CIFAR-10 setup
-- CIFAR-10, CIFAR-100, TinyImageNet-200, ImageNet download setups.
+- CIFAR-10, CIFAR-100, TinyImageNet, ImageNet download setups.
   Please see ```PROJECT_DIR/data_setup/``` or you can download it manually form the offical websites in Prerequisites ↓
 
 Please follow the instruction below to install it and run the experiment demo.
